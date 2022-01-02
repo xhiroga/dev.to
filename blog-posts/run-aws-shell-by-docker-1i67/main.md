@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Run aws-shell by docker'
 cover_image: ''
 description: ''
