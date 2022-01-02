@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'makefile styleguide as task runner'
 cover_image: ''
 description: ''
