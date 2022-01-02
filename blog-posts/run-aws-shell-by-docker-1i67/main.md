@@ -1,8 +1,8 @@
 ---
 published: false
-title: "Run aws-shell by docker"
-cover_image: ""
-description: ""
+title: 'Run aws-shell by docker'
+cover_image: ''
+description: ''
 tags: aws
 series:
 canonical_url:
