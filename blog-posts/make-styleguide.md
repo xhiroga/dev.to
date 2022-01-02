@@ -70,4 +70,4 @@ The manual says [We recommend Makefile because it appears prominently near the b
 - [bash \- What is the difference between $\(command\) and \`command\` in shell programming? \- Stack Overflow](https://stackoverflow.com/questions/4708549/what-is-the-difference-between-command-and-command-in-shell-programming)
 - [bash \- Command substitution: backticks or dollar sign / paren enclosed? \- Stack Overflow](https://stackoverflow.com/questions/9405478/command-substitution-backticks-or-dollar-sign-paren-enclosed)
 - [coding style \- Should I name "makefile" or "Makefile"? \- Stack Overflow](https://stackoverflow.com/questions/12669367/should-i-name-makefile-or-makefile)
-- [Style Guide の Style Guideを作る](https://zenn.dev/hiroga/articles/styleguide-of-styleguide)
+- [Style Guide の Style Guide を作る](https://zenn.dev/hiroga/articles/styleguide-of-styleguide)
