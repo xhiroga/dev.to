@@ -18,10 +18,10 @@ alias aws-shell='docker run --rm -it -v "$HOME/.aws:/root/.aws" hiroga/aws-shell
 
 ## Details
 
-As of 2020-03-29, `aws-shell` installed by Homebrew does not work.\
+As of 2020-03-29, `aws-shell` installed by Homebrew does not work.  
 To avoid the dependency problem, I run my aws-shell by docker.
 
-Dockerfile is here.\
+Dockerfile is here.  
 https://github.com/hiroga-cc/docker-images/blob/master/aws-shell/Dockerfile
 
 ## Issues
