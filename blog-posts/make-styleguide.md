@@ -5,7 +5,7 @@ cover_image: ''
 description: ''
 tags: 'make'
 series:
-canonical_url: https://dev.to/hiroga/makefile-styleguide
+canonical_url:
 ---
 
 Using make as task runner, this is style guide of `makefile` for me
