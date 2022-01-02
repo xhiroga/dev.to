@@ -8,5 +8,15 @@
   "bracketSpacing": true,
   "arrowParens": "avoid",
   "proseWrap": "never",
-  "htmlWhitespaceSensitivity": "ignore"
+  "htmlWhitespaceSensitivity": "ignore",
+  "overrides": [
+    {
+      "files": [
+        "*.md"
+      ],
+      "options": {
+        "parser": "markdown-nocjsp"
+      }
+    }
+  ]
 }

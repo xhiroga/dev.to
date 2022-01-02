@@ -10,14 +10,12 @@ canonical_url: https://dev.to/hiroga/makefile-styleguide
 
 Using make as task runner, this is style guide of `makefile` for me
 
-
 ## Style Rules
 
 ### Assignment to variables
 
 Use `:=` as possible. The variables defined by `=` is referred recursively and it is little tricky.  
 See [6\.5 Setting Variables](https://www.gnu.org/software/make/manual/make.html#Setting)
-
 
 ### Order or targets
 
@@ -37,7 +35,6 @@ Here is the preferable target order.
 see [Phony Targets \(GNU make\)](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html).
 
 `clean` is used to be placed in the last, as I know.
-
 
 ## Formatting Rules
 
@@ -64,7 +61,6 @@ Use `$${VAR}` instead of `$$VAR`. It help to distinguish shell variables from ma
 
 Use `Makefile`, start with capital.  
 The manual says [We recommend Makefile because it appears prominently near the beginning of a directory listing, right near other important files such as README\.](https://www.gnu.org/software/make/manual/make.html#Makefile-Names)
-
 
 ## References and Inspirations
 
